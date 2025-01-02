@@ -31,7 +31,7 @@ export default function RecentPosts() {
                       <div className="card-block p-4">
                         <h2 className="card-title text-xl font-semibold">
                           <Link href="../Posts/Post5">
-                            Beginner's Guide to Building Your First Website
+                            Beginners Guide to Building Your First Website
                           </Link>
                         </h2>
                         <h4 className="card-text text-gray-600 mt-2">
