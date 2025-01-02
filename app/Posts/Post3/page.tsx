@@ -67,7 +67,7 @@ function Page() {
             </h2>
 
             <p className="mb-6 text-gray-700">
-              Start by defining what you want to achieve. Whether it's mastering
+              Start by defining what you want to achieve. Whether its mastering
               a specific programming language, building a project, or landing a
               job, having clear goals will keep you focused and provide
               direction.

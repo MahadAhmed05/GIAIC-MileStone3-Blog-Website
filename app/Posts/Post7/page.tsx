@@ -90,7 +90,7 @@ function Page() {
 
             <p className="mb-6 text-gray-700">
               Use responsive image techniques, such as the <code>srcset</code>{" "}
-              attribute, to serve appropriately sized images based on the user's
+              attribute, to serve appropriately sized images based on the users
               device. This improves page loading speed and ensures better visual
               quality on all screens.
             </p>
@@ -101,7 +101,7 @@ function Page() {
 
             <p className="mb-6 text-gray-700">
               Media queries are essential for responsive design. They allow you
-              to apply different styles based on the device's screen size,
+              to apply different styles based on the devices screen size,
               resolution, and orientation. For example, you can hide unnecessary
               elements or adjust font sizes for smaller screens.
             </p>
@@ -119,7 +119,7 @@ function Page() {
             <p className="mb-6 text-gray-700">
               By following these best practices, you can create websites that
               are visually appealing, user-friendly, and functional on any
-              device. Responsive web design is no longer optional—it's a
+              device. Responsive web design is no longer optional—its a
               necessity in today’s multi-device world.
             </p>
           </div>

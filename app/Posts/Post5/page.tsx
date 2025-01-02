@@ -26,7 +26,7 @@ function Page() {
           {/* Post Header */}
           <header className="mb-8">
             <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-              Beginner's Guide to Building Your First Website
+              Beginners Guide to Building Your First Website
             </h1>
             <div className="flex items-center space-x-4 text-gray-600">
               <div className="flex items-center">
