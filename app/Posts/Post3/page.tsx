@@ -94,8 +94,8 @@ function Page() {
             </p>
 
             <blockquote className="border-l-4 border-gray-200 pl-4 italic my-8 text-gray-600">
-              "The key to staying productive is not about working harder, but
-              working smarter and staying consistent." – Productivity Expert
+              The key to staying productive is not about working harder, but
+              working smarter and staying consistent. – Productivity Expert
             </blockquote>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">

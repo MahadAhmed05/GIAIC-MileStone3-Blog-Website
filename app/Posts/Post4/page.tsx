@@ -98,7 +98,7 @@ function Page() {
 
             <p className="mb-6 text-gray-700">
               W3Schools is a popular platform for learning web development. Its
-              interactive examples and "Try it Yourself" feature make it easy to
+              interactive examples and Try it Yourself feature make it easy to
               practice coding directly on the platform.
             </p>
 
