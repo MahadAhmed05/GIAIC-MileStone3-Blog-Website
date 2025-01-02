@@ -88,8 +88,8 @@ function Page() {
             </p>
 
             <blockquote className="border-l-4 border-gray-200 pl-4 italic my-8 text-gray-600">
-              "By 2024, 50% of all consumer-facing apps will be PWAs, improving
-              accessibility and performance for users globally." – Industry
+              By 2024, 50% of all consumer-facing apps will be PWAs, improving
+              accessibility and performance for users globally. – Industry
               Expert
             </blockquote>
 
