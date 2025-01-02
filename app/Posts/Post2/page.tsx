@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import pic from "../../images/post2.png";
 import Author2 from "../../images/author2.jpg";
 
-function page() {
+function Page() {
   const [comments, setComments] = useState<string[]>([]);
   const [newComment, setNewComment] = useState<string>("");
   const [likes, setLikes] = useState<number>(0);
@@ -198,4 +198,4 @@ function page() {
   );
 }
 
-export default page;
+export default Page;
